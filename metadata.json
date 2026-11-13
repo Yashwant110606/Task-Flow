@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A simple, Google-authenticated task management workspace backed by Node.js and MongoDB Atlas with Planned, In Progress, and Complete workflow states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
